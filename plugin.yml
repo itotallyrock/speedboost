@@ -1,0 +1,10 @@
+name: SpeedBoost
+main: tk.jeffreymeyer.speed.main
+version: 0.0.01-ALPHA
+commands:
+  speed:
+    description: "Global command for Speed Boosts"
+    permission: speed
+  pa:
+    description: "Global command for Speed Boosts"
+    permission: pa
