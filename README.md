@@ -1,0 +1,2 @@
+# speedboost
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/89288ef65f4e43e0a81a721362da1627)](https://www.codacy.com?utm_source=github.com&utm_medium=referral&utm_content=itotallyrock/speedboost&utm_campaign=badger)
